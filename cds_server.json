@@ -1,0 +1,7 @@
+[
+	["echo", "/bin/cat"],
+	["mopp-2018-t0-harmonic-progression-sum", "/etc/mopp-2018-t0-harmonic-progression-sum"],
+	["mopp-2019-t2-brute-force-password-cracking", "/etc/mopp-2019-t2-brute-force-password-cracking"],
+	["mopp-2018-t2-levenshtein", "/etc/mopp-2018-t2-levenshtein"],
+	["mopp-2018-t2-levenshtein-large", "/etc/mopp-2018-t2-levenshtein"]
+]
